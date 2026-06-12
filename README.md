@@ -1,6 +1,6 @@
-# 🧠 RAG Pipeline with Lightweight LLM (Qwen 0.6B)
+# 🧠 RAG Pipeline with Lightweight LLM (Qwen 5B)
 
-A production-style **Retrieval-Augmented Generation (RAG)** system built using a lightweight open-source model (**Qwen 0.6B**) optimized for low-resource environments like Google Colab.
+A production-style **Retrieval-Augmented Generation (RAG)** system built using a lightweight open-source model (**Qwen 5B**) optimized for low-resource environments like Google Colab.
 
 ---
 
